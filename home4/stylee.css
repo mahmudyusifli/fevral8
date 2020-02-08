@@ -1,0 +1,199 @@
+.nav-menu{
+    height: 1000px;
+    width: 285px;
+    background-image: url(https://demo.mikado-themes.com/onyx50/wp-content/uploads/2015/03/left-menu-background.jpg);
+    display: inline-block;
+    position: fixed;
+   
+}
+
+
+
+
+.context{
+
+   float: left;
+    margin-left: 285px;
+    background-color:white;
+    height: 1000px;
+}
+
+#image{
+    width: 300px;
+    height: 300px;
+}
+
+.boxed{
+
+    border: 1px solid black;
+    width: 330px;
+    height: 414px;
+    float: left;
+}
+
+
+/*#homesoz{
+    margin-left: 450px;
+}
+
+.hometext{
+
+height: 700px;
+padding-left: px;
+} */
+
+ul.menu {
+    list-style-type: none;
+}
+
+
+ul.menu>li.menu-item {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+ul.menu>li> a{
+    text-decoration: none;
+    margin-top: 10px;
+    /*border-bottom: 1px solid grey;*/
+    color: whitesmoke;
+    transition: .2s;
+    position: relative;
+    display: block;
+    font-size: 14px;
+}
+
+ul.menu > li > a:hover{
+    color: rgb(255, 115, 0);
+    width: 100%;
+    display: inline-block;
+}
+
+.navchild>li>a{
+    padding-left: 20px;
+    font-size: 7px;
+}
+/*ul.menu > li > a::before{
+  content: ' ';
+  border: bottom 1px solid red;
+  display: inline-block;
+  width: 0%;
+  bottom: -1px;
+  position: absolute; */
+#image{
+    transition: 0.4s;
+}
+
+#image a:hover{
+    color: blue;
+    width: 100%;
+    display: inline-block;
+}
+
+#imge{
+   width: 300px;
+   height: 300px;
+
+}
+
+.dark{
+    width: 200px;
+    height: 82px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+
+.follow{
+    margin-top: 130px;
+    color: whitesmoke;
+    font-size: 13px;
+}
+
+.links>i{
+    margin: 5px;
+    margin-left: 1px;
+    color: whitesmoke;
+    transition: .4s;
+    margin-bottom: 10px;
+    
+}
+
+.links>i:hover{
+    color: rgb(255, 115, 0);
+    display: inline-block;
+
+}
+
+
+.menu i{
+    margin-right: 20px;
+}
+
+ul.navchild >li > a{
+    margin-left: 39px;
+    font-size: 12px;
+
+}
+.pagesbar{
+    margin-left: 39px;
+}
+
+/*.addto{
+    width: 144px;
+    height: 126px;
+    background-color: gray;
+    margin-left: 168px;
+    margin-bottom: 0px;
+    display: inline-block;
+}*/
+
+.price{
+    color: black;
+    transition: .4s;
+    text-decoration: none;
+}
+.price a:hover{
+    color: rgb(255, 115, 0);
+}
+
+.boxed a{
+    text-decoration: none;
+}
+
+
+#minus{
+    margin-left: 120px;
+    margin-top: 10px;
+}
+
+#porminus{
+    margin-left: 78px;
+    margin-bottom:px;
+}
+
+.fieldset{
+    border: 1px solid black;
+    margin-left: 70px;
+}
+
+.objectnm{
+    color:  rgb(211, 203, 203);
+}
+
+.price{
+    color: rgb(255, 115, 0);
+  
+}
+
+
+.pay{
+    margin-left: 200px;
+    width: 90px;
+    height: 50px;
+   
+    padding-left: 30px;
+    padding-top: 5px;
+    background-color: gray;
+}
