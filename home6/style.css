@@ -18,6 +18,8 @@ body,html{
     background-color: white;
     /* position: fixed; */
     z-index: 3;
+    position: sticky;
+    top: 0;
   
    
 }
